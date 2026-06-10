@@ -1,13 +1,4 @@
----
-title: MindScan
-emoji: 🧠
-colorFrom: purple
-colorTo: cyan
-sdk: streamlit
-sdk_version: 1.28.0
-app_file: app.py
-pinned: false
----
+
 # MindScan — Complete Project Documentation
 ### AI-Powered Mental Health Sentiment Analyzer
 **Course Project | Intro to AI | 4th Semester**
