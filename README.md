@@ -50,7 +50,7 @@
 |---|---|---|
 | Fatima Anjum | Data + EDA + Preprocessing | Clean dataset + EDA Jupyter notebook |
 | Anosha Shams | Model Evaluation | Trained models + results charts |
-| Fatima Zahra | Web App + Model Training + | GitHub repo |
+| Fatima Zahra | Web App + Model Training | GitHub repo + Web App |
 
 ---
 
